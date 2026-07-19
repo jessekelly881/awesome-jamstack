@@ -120,8 +120,9 @@ _For more resources about Static Web Apps see (Awesome Static Web Apps)[https://
 - [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 - [FactorJS](https://www.factorjs.org) - Next-generation framework powered by Vite.
 - [Mandu](https://mandujs.com) - Agent-native fullstack framework on Bun + React. Static export, SSR, file-system routing, runtime architecture guard, and 100+ MCP tools so AI editors can drive the site end-to-end.
+- [Bloggrify](https://bloggrify.com) - Nuxt Content layer for blogging, with themes, SEO, RSS and analytics preconfigured.
 
-_For a more complete list see [StaticGen](https://www.staticgen.com/)._
+_For a more complete list see [Jamstack generators](https://jamstack.org/generators/)._
 
 ## CMS
 
